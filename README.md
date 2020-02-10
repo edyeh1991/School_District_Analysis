@@ -1,7 +1,7 @@
 # School_District_Analysis
 In depth analysis of Math and Reading scores from 15 different schools based on disctrict, school, grades, spending, size and type.
 
-# Given that the score averages for ninth graders from one high school are incorrect, a reanalysis was performed on the data.
+## Given that the score averages for ninth graders from one high school are incorrect, a reanalysis was performed on the data.
 - After replacing the reading and math scores of 9th graders from Thomas High School, the disctrict summary showed realitely little change in decrease of the average math score from 79 to 78.9 and the percent of students passing math and reading decreasing 1% from 75% to 74% and 86% o 85% respectively. This decrease leads to an overall passing rate decrease from 65% to 64%.
 
 - In the school summary, the percent of students passing math at Thomas high school significantly decreased from 93% passing to 66% passing and the percent of students passing reading decreased from 97% to 69%. The schools overall passing rate decreased from 90% to 65%
